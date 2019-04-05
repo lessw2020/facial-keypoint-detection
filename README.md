@@ -9,7 +9,7 @@ Example result:
 This project will be all about defining and training a convolutional neural network to perform facial keypoint detection, and using computer vision techniques to transform images of faces. The first step in any challenge like this will be to load and visualize the data you'll be working with.
 
 # Architecture:
-<img src='facial-keypoint-net.jpg' width=50% height=50% />
+<img src='facial-keypoint-net.jpg' width=90% height=90% />
 
 
 
